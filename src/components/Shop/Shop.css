@@ -25,3 +25,7 @@
     justify-content: space-between;
     align-items: center;
 }
+.currentPage{
+    background: blue;
+    color: white;
+}
